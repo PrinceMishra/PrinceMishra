@@ -22,10 +22,10 @@ Welcome to my GitHub! I’m a passionate software developer specializing in **Co
 - 🔧 [DSA-Java](https://github.com/PrinceMishra/java-dsa-journey) 
   A well-structured repository of all common DSA problems with clean Java code and explanations.
 
-- 📚 [AutoRent](https://github.com/your-username/Java-Backend-App](https://github.com/PrinceMishra/java-car-rental-system))  
+- 📚 [AutoRent]((https://github.com/PrinceMishra/java-car-rental-system))  
  A console-based Core Java project using Collection Framework, Multithreading, and Exception Handling to manage car rentals, returns, and customer operations without a database.
 
-- 📡 [Payoutly](https://github.com/your-username/Java-WebSocket-Chat](https://github.com/PrinceMishra/java-employee-payroll-system)) *(Coming soon)*  
+- 📡 [Payoutly]((https://github.com/PrinceMishra/java-employee-payroll-system)) *(Coming soon)*  
  Built using Core Java, Collections Framework, OOP principles, Exception Handling, and modular design to manage employee records, salary calculations, and payroll operations without a database.
 
 ---
